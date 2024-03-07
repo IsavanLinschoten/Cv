@@ -50,5 +50,7 @@ body {
 	flex-basis: 1.4em;
 }
 
-.education{color: #cc0404;
+.education{
+	color: #cc0404;
+	text-align: center;
 }
