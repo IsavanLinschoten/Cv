@@ -14,7 +14,7 @@ body {
 /* Styles for custom classes in the document. (There are more, try to find them out!) */
 
 .resume-header {
-    background-color: #EDA8D0;
+    background-color: #eda8d0;
 }
 
 .resume-main {
@@ -48,4 +48,7 @@ body {
 .contact-icon {
 	height: 1em;
 	flex-basis: 1.4em;
+}
+
+.education{color: #cc0404;
 }
