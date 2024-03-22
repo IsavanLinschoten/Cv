@@ -58,5 +58,14 @@ body {
 
 .second-education-and-proffesional-experiences{
 	color: #0c1a7b;
-	font-family: "Roboto Slab", serif;
+	// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.truculenta-<uniquifier> {
+  font-family: "Truculenta", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
 }
