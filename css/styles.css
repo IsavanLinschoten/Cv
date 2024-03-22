@@ -53,15 +53,7 @@ body {
 .education-and-proffesional-experiences{
 	color: #0c1a7b;
 	text-align: center;
-	font-family: "Roboto Slab", serif;
-}
-
-.second-education-and-proffesional-experiences{
-	color: #0c1a7b;
-	// <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 100 to 900
-
-.truculenta-<uniquifier> {
+	.truculenta-<uniquifier> {
   font-family: "Truculenta", sans-serif;
   font-optical-sizing: auto;
   font-weight: <weight>;
@@ -69,3 +61,17 @@ body {
   font-variation-settings:
     "wdth" 100;
 }
+}
+
+.second-education-and-proffesional-experiences{
+	color: #0c1a7b;
+	.truculenta-<uniquifier> {
+  font-family: "Truculenta", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+}
+
